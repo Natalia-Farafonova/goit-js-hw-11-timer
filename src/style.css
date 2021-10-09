@@ -1,0 +1,10 @@
+.timer {
+  display: flex;
+  justify-content: center;
+  font-size: 70px;
+  color: gray;
+}
+
+.field {
+  padding-left: 20px;
+}
